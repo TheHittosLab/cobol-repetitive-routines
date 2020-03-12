@@ -1,7 +1,7 @@
 # COBOL repetitive routines
 
 ### English
-A table multiplicator program written in COBOL to practice the repetivie routines or repetitives aritmetical operations.
+A table multiplicator program written in COBOL to practice the repetive routines or repetitives aritmetical operations.
 
 #### You can see the explanation on my Youtube channel:
 http://bit.ly/39Ch2Nd
